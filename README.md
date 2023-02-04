@@ -1,9 +1,10 @@
 # Data-Exploratory-Analysis-For-Credit-Card-Data
 
+ANALYTICS IN CREDIT CARD COMPANY:
 Analytics has penetrated every industry owing to the various technology platforms that collect information and thus, the service providers know what exactly customers want. The Credit Card industry is no exception. Within credit card payment processing, there is a significant amount of data available that can be beneficial in countless ways.
 
 Understanding the customer behaviour
-The data available from a credit card processor identifies the types of consumer and their business spending behaviors. Hence, developing the marketing campaigns to directly address their behaviors indeed grows the revenue and these considerations will result in greater sales.
+The data available from a credit card processor identifies the types of consumer and their business spending behaviours. Hence, developing the marketing campaigns to directly address their behaviours indeed grows the revenue and these considerations will result in greater sales.
 
 Personalize offering based on data results
 Data also reveals specific interests and needs in individual customers that a company can leverage, this addressing their needs more efficiently. Specific promotions can be sent out related to where these customers are located and this builds sales more quickly.
@@ -23,27 +24,26 @@ In order to effectively produce quality decisions in the modern credit card indu
 BUSINESS PROBLEM:
 DATA AVAILABLE - This repository has the following CSV files:
 
-.Customer Acquisition: At the time of card issuing, company maintains the details of customers.
-.Spend (Transaction data): Credit card spend for each customer
-.Repayment: Credit card Payment done by customer
+•	Customer Acquisition: At the time of card issuing, company maintains the details of customers.
+•	Spend (Transaction data): Credit card spend for each customer
+•	Repayment: Credit card Payment done by customer
 Conclusions
-Number of distinct customers are 100
+•	Number of distinct customers are 100
 
-We can see from the countplot that number of distinct categories are 5
+•	We can see from the countplot that number of distinct categories are 5
 
-From above pie chart we can see that Cochin is having maximum spend.
+•	From above pie chart we can see that Cochin is having maximum spend.
 
-From the pie chart shown above we can say that age group 42 - 50 is spending more money
+•	From the pie chart shown above we can say that age group 42 - 50 is spending more money
 
-We can see from the above graph that the sales are high for all the Products during the months:
+•	We can see from the above graph that the sales are high for all the Products during the months:
 
-January
-
-February
-March
-April
-May
-Out of these months,highest sales are in January
+•	January
+•	February
+•	March
+•	April
+•	May
+Out of these months, highest sales are in January
 
 Silver clients :
 They represent 21% of our customers, Their main jobs are in Government (25.6%) and in Multinational Corporations (23.7%), meaning there´s some job and salary stability to them. Their main spends are in Transportation Tickets (26.2%), Petro (14.1%) and Camera (11.6%), indicating it´s probably a niche with high interest in leisure trips. The strategy advice for this niche is keeping it as a stable base of clients, but with a potential to grow, offering them trip related products.
