@@ -22,11 +22,12 @@ BUSINESS PROBLEM:
 In order to effectively produce quality decisions in the modern credit card industry, knowledge must be gained through effective data analysis and modeling. Through the use of dynamic data-driven decision-making tools and procedures, information can be gathered to successfully evaluate all aspects of credit card operations
 
 ## BUSINESS PROBLEM:   
+
 DATA AVAILABLE - This repository has the following CSV files:
 
--**Customer Acquisition:** At the time of card issuing, company maintains the details of customers.
--**Spend (Transaction data):** Credit card spend for each customer
--**Repayment:** Credit card Payment done by customer
+- **Customer Acquisition:** At the time of card issuing, company maintains the details of customers.
+- **Spend (Transaction data):** Credit card spend for each customer
+- **Repayment:** Credit card Payment done by customer
  
  ### Conclusions
 •	Number of distinct customers are 100
@@ -39,11 +40,11 @@ DATA AVAILABLE - This repository has the following CSV files:
 
 •	We can see from the above graph that the sales are high for all the Products during the months:
 
-•	January
-•	February
-•	March
-•	April
-•	May
+- 	January
+- 	February
+-  March
+-  April
+-  May
 Out of these months, highest sales are in January
 
 Silver clients :
